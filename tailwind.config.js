@@ -14,7 +14,8 @@ export default {
     },
     fontFamily: {
       'showders': 'Big Shoulders Display',
-      'lexend': 'Big Shoulders Display'
+      'lexend': 'Lexend Deca' 
+
     }
   },
   plugins: [],

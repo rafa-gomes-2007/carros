@@ -5,7 +5,7 @@ import iconLuxury from "./assets/icon-luxury.svg"
 export default function App() {
   return (
 
-    <main>
+    <main className="min-h-svh bg-offwhite py-20 px-6">
       <section>
         <div className="bg-orange">
           <img src={iconSedans} alt="iconde de carros sedans"/>
