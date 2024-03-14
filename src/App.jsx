@@ -5,8 +5,8 @@ import iconLuxury from "./assets/icon-luxury.svg"
 export default function App() {
   return (
 
-    <main className="min-h-svh bg-offwhite py-20 px-6">
-      <section>
+    <main className="min-h-svh bg-offwhite py-20 px-6 antialissed lg:flex justify-content items-center">
+      <section className="lg:flex">
         <div className="bg-orange p-12 rounded-t-lg">
           <img src={iconSedans} alt="iconde de carros sedans" className="mb-7"/>
           <h2 className="font-showders mb-7 uppercase text-4xl font-bold text-offwhite-bg">Sedans</h2>
