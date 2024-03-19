@@ -11,7 +11,7 @@ export default function App() {
           <img src={iconSedans} alt="iconde de carros sedans" className="mb-7"/>
           <h2 className="font-showders mb-7 uppercase text-4xl font-bold text-offwhite-bg">Sedans</h2>
           <p className="font-lexend text-offwhite mb-7">Escolha um sedan pelo seu preço acessível e excelente economia de combustível. Ideal para dirigir na cidade ou na sua próxima viagem.</p>
-          <a href="https://www.webmotors.com.br/sedans" target = "_blenk" className="font-lexend bg-offwhite-bg px-10 py-3 w-fit rounded-3xl text-orange" >Ver Mais</a>
+          <a className="font-lexend bg-offwhite-bg px-10 py-3 w-fit rounded-3xl text-orange hover:bg-orange hover:text-offwhite" href="https://www.webmotors.com.br/sedans" target="_blank">Ver Mais</a>
         </div>
 
         <div className="bg-green p-12"> 
